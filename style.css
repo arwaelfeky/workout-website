@@ -1,0 +1,10 @@
+body{
+    background-image: url(imagge.jpg);
+    background-repeat: no-repeat;
+    display:flex;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
+
